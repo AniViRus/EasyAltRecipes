@@ -1,0 +1,23 @@
+"D:/SatisfactoryModding/SatisfactoryModLoader/Mods/EasyAltRecipes/Intermediate/Build/Linux/x64/FactoryServer/Shipping/EasyAltRecipes/Module.EasyAltRecipes.cpp.o"
+ -soname="libFactoryServer-EasyAltRecipes-Linux-Shipping.so"
+ -rpath="${ORIGIN}/../../../../../Engine/Source"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Mods/SML/ThirdParty/Linux"
+ -rpath="${ORIGIN}/../../../../../Engine/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../../Program Files/Unreal Engine - CSS/Engine/Plugins/EnhancedInput/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../Engine/Plugins/EnhancedInput/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Mods/EnhancedInput/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Binaries/Linux"
+ -rpath="${ORIGIN}/../../../../../FactoryGame/Mods/SML/Binaries/Linux"
+ -rpath-link="D:\SatisfactoryModding\SatisfactoryModLoader\Mods\EasyAltRecipes\Binaries\Linux"
+ -L"D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/ThirdParty/Linux"
+ -L"D:/Program Files/Unreal Engine - CSS/Engine/Binaries/Linux"
+ -L"D:/Program Files/Unreal Engine - CSS/Engine/Plugins/EnhancedInput/Binaries/Linux"
+ -L"D:/SatisfactoryModding/SatisfactoryModLoader/Binaries/Linux"
+ -L"D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/Binaries/Linux"
+ --start-group
+ D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/ThirdParty/Linux/libfunchook.a
+ D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/ThirdParty/Linux/libdistorm.a
+ D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/ThirdParty/Linux/libAssemblyAnalyzer.a
+ D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/ThirdParty/Linux/libZydis.a
+ D:/SatisfactoryModding/SatisfactoryModLoader/Mods/SML/ThirdParty/Linux/libZycore.a
+ --end-group

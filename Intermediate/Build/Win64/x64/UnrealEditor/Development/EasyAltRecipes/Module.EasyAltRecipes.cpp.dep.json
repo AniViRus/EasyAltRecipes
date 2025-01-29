@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\easyaltrecipes\\module.easyaltrecipes.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\satisfactorymodding\\satisfactorymodloader\\intermediate\\build\\win64\\x64\\factoryeditor\\development\\unrealed\\sharedpch.unrealed.cpp17.h.pch",
+        "Includes": [
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\easyaltrecipes\\definitions.easyaltrecipes.h",
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\intermediate\\build\\win64\\unrealeditor\\inc\\easyaltrecipes\\uht\\easyaltrecipes.init.gen.cpp",
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\intermediate\\build\\win64\\unrealeditor\\inc\\easyaltrecipes\\uht\\easyaltrecipeslib.gen.cpp",
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\source\\easyaltrecipes\\public\\easyaltrecipeslib.h",
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\intermediate\\build\\win64\\unrealeditor\\inc\\easyaltrecipes\\uht\\easyaltrecipeslib.generated.h",
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\source\\easyaltrecipes\\private\\easyaltrecipesmodule.cpp",
+            "d:\\satisfactorymodding\\satisfactorymodloader\\mods\\easyaltrecipes\\source\\easyaltrecipes\\public\\easyaltrecipesmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

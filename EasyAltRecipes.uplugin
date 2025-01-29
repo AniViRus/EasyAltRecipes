@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"SemVersion": "2.0.0",
+	"GameVersion": ">=383729",
+	"FriendlyName": "EasyAlt Recipes",
+	"Description": "A mod that aims to improve the ratio of many alternate recipes and some late-game vanilla recipes",
+	"Category": "Modding",
+	"CreatedBy": "Acxd, AniViRus Productions",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.9.1",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "EasyAltRecipes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

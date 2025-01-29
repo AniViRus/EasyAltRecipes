@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyAltRecipes.cpp.obj": [
+			"EasyAltRecipes.init.gen.cpp.obj",
+			"EasyAltRecipesLib.gen.cpp.obj",
+			"EasyAltRecipesModule.cpp.obj"
+		]
+	}
+}
