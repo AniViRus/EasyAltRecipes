@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.2.2",
+	"VersionName": "2.2.3",
 	"FriendlyName": "EasyAlt Recipes",
 	"Description": "A mod that aims to improve the ratio of many alternate recipes and some late-game vanilla recipes ",
 	"Category": "Modding",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.9.1"
+			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "2.2.2",
+	"SemVersion": "2.2.3",
 	"GameVersion": ">=383729"
 }
