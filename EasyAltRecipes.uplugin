@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.3.0",
+	"VersionName": "2.3.1",
 	"FriendlyName": "EasyAlt Recipes",
 	"Description": "A mod that aims to improve the ratio of many alternate recipes and some late-game vanilla recipes ",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "2.3.0",
+	"SemVersion": "2.3.1",
 	"GameVersion": ">=383729"
 }
