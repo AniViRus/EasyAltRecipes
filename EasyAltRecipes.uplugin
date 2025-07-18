@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.3.1",
-	"FriendlyName": "EasyAlt Recipes",
+	"VersionName": "2.6.1",
+	"FriendlyName": "EasyAlt Rebalance",
 	"Description": "A mod that aims to improve the ratio of many alternate recipes and some late-game vanilla recipes ",
 	"Category": "Modding",
-	"CreatedBy": "Acxd, AniViRus Productions, Chemas",
+	"CreatedBy": "AniViRus Productions, Acxd, Chemas",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.10.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "2.3.1",
-	"GameVersion": ">=383729"
+	"SemVersion": "2.6.1",
+	"GameVersion": ">=416835"
 }

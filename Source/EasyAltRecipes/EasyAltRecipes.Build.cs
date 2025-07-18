@@ -6,7 +6,8 @@ public class EasyAltRecipes : ModuleRules
 {
 	public EasyAltRecipes(ReadOnlyTargetRules Target) : base(Target)
 	{
-		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+        CppStandard = CppStandardVersion.Cpp20;
+        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 		bLegacyPublicIncludePaths = false;
 
 		//SML transitive dependencies
