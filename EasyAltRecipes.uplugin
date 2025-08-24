@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.6.1",
+	"VersionName": "2.6.4",
 	"FriendlyName": "EasyAlt Rebalance",
 	"Description": "A mod that aims to improve the ratio of many alternate recipes and some late-game vanilla recipes ",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "2.6.1",
+	"SemVersion": "2.6.4",
 	"GameVersion": ">=416835"
 }
